@@ -1118,6 +1118,7 @@ export default class Picker extends Component {
     return (
       <section
         id="root"
+        part="root"
         class="flex flex-column"
         dir={this.dir}
         style={{
