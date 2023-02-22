@@ -1,6 +1,6 @@
 {
-  "name": "emoji-mart",
-  "version": "5.5.2",
+  "name": "@essem/emoji-mart",
+  "version": "5.5.2b",
   "description": "Emoji picker for the web",
   "license": "MIT",
   "homepage": "https://missiveapp.com/open/emoji-mart",
